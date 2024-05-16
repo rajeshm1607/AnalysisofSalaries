@@ -1,9 +1,19 @@
 Salary Prediction System
 
-Overview
+🚀 Overview
 
-The Salary Prediction System is a machine learning project aimed at predicting the salaries of employees based on various factors. This project uses a dataset to train and test the model, and it includes a Jupyter Notebook for implementation.
-Project Structure
+The Salary Prediction System is a machine learning project aimed at predicting the salaries of employees based on various factors. This project uses a dataset to train and test the model and includes a Jupyter Notebook for implementation.
+📁 Project Structure
+
+sql
+
+Salary-Prediction-System/
+├── .gitattributes
+├── LICENSE
+├── README.md
+├── Salary Prediction System.jpg
+├── Salary_Prediction.ipynb
+└── dataset.csv
 
     .gitattributes: Git attributes for managing repository settings.
     LICENSE: License information for the project.
@@ -12,7 +22,7 @@ Project Structure
     Salary_Prediction.ipynb: Jupyter Notebook containing the implementation of the salary prediction model.
     dataset.csv: Dataset used for training and testing the model.
 
-Requirements
+💻 Requirements
 
 To run this project, you need to have the following installed:
 
@@ -29,7 +39,7 @@ bash
 
 pip install pandas numpy scikit-learn matplotlib
 
-Usage
+📖 Usage
 
     Clone the repository:
 
@@ -51,19 +61,19 @@ bash
 
     Run the cells in the notebook to train and test the salary prediction model.
 
-Dataset
+📊 Dataset
 
 The dataset (dataset.csv) contains the following columns:
 
     YearsExperience: Number of years of experience of the employee.
     Salary: Salary of the employee.
 
-License
+📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-Contributing
+🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-Acknowledgments
+🙏 Acknowledgments
 
     This project is inspired by various machine learning tutorials and resources available online.
